@@ -128,6 +128,10 @@ footer p {
     margin-left: 20px; /* Reduce space on the left side of the image */
 }
 
+.cu-info {
+    font-size: larger;
+}
+
 /* Other styles remain unchanged */
 section {
     margin-bottom: 40px;
